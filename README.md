@@ -12,3 +12,6 @@ The second deliverable was to capture the data surrounding employees that are el
 ## Summary
 * The query below shows how many roles that will need to be filled. 
 * No, there are not enough employees. As we can see from the mentorship eligiblity table we created and the query ran below, there are not nearly enough employees.
+![Query1](Query1.png)
+![Query2](Query2.png)
+![Query3](Query3.png)
